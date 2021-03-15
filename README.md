@@ -6,7 +6,7 @@ O projeto consiste em uma API que envia e-mails com pesquisa de satifação para
 
 :point_right: **NodeJs**
 
-:point_right: **Typescript**
+:point_right: **TypeScript**
 
 :point_right: **TypeOrm**
 
